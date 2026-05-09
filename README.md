@@ -125,6 +125,11 @@ streamlit run app.py
 
 ---
 
+## 🖥️ Presentation
+(https://canva.link/477cm84n2gmyxr4)
+
+---
+
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -140,7 +145,9 @@ streamlit run app.py
 
 ## 👤 Author
 
-**Mutiara Ayu Alzahra Ramadhani**
+**MUTIARA AYU ALZAHRA RAMADHANI**
+
+👔 (https://www.linkedin.com/in/mutiara-ayu-1a343528).
 
 
 ---
