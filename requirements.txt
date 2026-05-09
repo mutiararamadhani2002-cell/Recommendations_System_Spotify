@@ -1,0 +1,8 @@
+streamlit
+implicit
+scipy
+scikit-learn
+pandas
+numpy
+pillow>=11.0.0
+spotipy
